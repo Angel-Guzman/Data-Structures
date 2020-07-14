@@ -156,6 +156,13 @@ class LinkedList:
         # print the string of values
         print(linked_list)
 
+# Like a set of plates
+# Can't get to bottom unless you go through the top
+# Last In First Out (LIFO)
+
+# Removing items from the front of a linked list is much easier because moving the head pointer to the next node
+# is done in constant time
+
 
 class Stack:
     def __init__(self):
@@ -175,6 +182,14 @@ class Stack:
         else:
             self.size -= 1
             return self.storage.remove_tail()
+
+
+# LIFO is generally ok for lists
+
+# When adding elements to the back of the list we have to copy the list and add those elements
+# meaning we have to touch every element in the list just to add to the back
+# If we have data in the front and we delete something we have to move every item in that list over
+
 
 # class Stack:
 #     def __init__(self):
