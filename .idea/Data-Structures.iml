@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/doubly_linked_list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singly_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/binary_search_tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
