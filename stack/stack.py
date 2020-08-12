@@ -67,6 +67,24 @@ class Stack:
 #             self.size = len(self.storage)
 #             return popped
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Sean's solution
 
 # class Stack:
